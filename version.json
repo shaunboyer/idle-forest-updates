@@ -1,3 +1,5 @@
 {
-  "testflight": 18
+  "testflight": 18,
+  "appstore": 18,
+  "appstoreLink": "itms-beta://"
 }
